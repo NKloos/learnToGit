@@ -6,6 +6,7 @@ public class ThirdCheck {
 		// distracted-_-
 		//upd: geht so 
 		// wird es jetzt gespeichert?
+		//ja, ist gespeichert!
 		System.out.println("hat geklappt");
 	}
 
